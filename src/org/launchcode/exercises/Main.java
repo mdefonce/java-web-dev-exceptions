@@ -23,9 +23,9 @@ public class Main {
         // Write code here!
     }
 
-    public static int CheckFileExtension(String fileName)
-    {
-        // Write code here!
-    }
+//    public static int CheckFileExtension(String fileName)
+//    {
+//        // Write code here!
+//    }
 
 }
